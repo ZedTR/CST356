@@ -1,0 +1,25 @@
+CST356-lab1
+Name: Zed Trzcinski
+Date: 01/12/2018
+
+Exercise 1:
+2-The Home controller been excuted
+5-When a request comes in from the view that gets passed to the conntroller the controller works on interpeting the request and collects the necessaru data
+from the model.MVC pattern uses a process called routing where it route the destination based about the URL that is typed.
+
+Exercise 2:
+1-The ActionResult method generate the about page.
+2-The string "Your application description page." is being passed from the controller using dyanmic property ViewBag.Message
+3-The view that the HomeController is using is About.cshtml
+4-The folder heirchy is Views/Home/About.cshtml
+5-the ViewBag.message in line 5
+
+Exercise 3:
+3- the application produce an error that indicate that there is no corresponding View for the Person Controller.
+5- the application found the index view that corresponds to the action result moethod in the Person controller
+8- the application display the information that been added to the ViewBag property in the controller
+
+
+
+
+
